@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=window.React,o=window.wp.blocks,s=window.wp.blockEditor;(0,o.registerBlockType)("rand-lipsum-block-gen/lipsum",{edit:()=>(0,e.createElement)("p",{...(0,s.useBlockProps)()},"Random Lorem Ipsum Generator (Editor View)"),save:()=>(0,e.createElement)("p",{...s.useBlockProps.save()},"Lorem ipsum dolor sit amet, consectetur adipiscing elit...")})})();

@@ -1,0 +1,14 @@
+{
+  "apiVersion": 2,
+  "name": "rand-lipsum-block-gen/lipsum",
+  "title": "Random Lipsum Generator",
+  "category": "widgets",
+  "icon": "editor-paragraph",
+  "description": "A Gutenberg block that generates Lorem Ipsum text.",
+  "keywords": ["lorem", "ipsum", "text", "generator"],
+  "supports": {
+    "html": false
+  },
+  "editorScript": "file:./build/index.js",
+  "style": "file:./style.css"
+}
