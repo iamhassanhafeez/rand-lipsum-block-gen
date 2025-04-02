@@ -1,0 +1,6 @@
+db_data/
+wp-content/uploads/
+wp-content/cache/
+wp-content/plugins/your-plugin/node_modules/
+wp-content/plugins/your-plugin/vendor/
+.env
